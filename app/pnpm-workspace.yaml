@@ -1,0 +1,3 @@
+onlyBuiltDependencies:
+  - '@capacitor/background-runner'
+  - esbuild

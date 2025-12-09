@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Private SMS Gateway</string>
+    <string name="title_activity_main">Private SMS Gateway</string>
+    <string name="package_name">app.privatesmsgateway</string>
+    <string name="custom_url_scheme">app.privatesmsgateway</string>
+</resources>
